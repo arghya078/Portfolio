@@ -102,9 +102,8 @@ export const workData = [
 export const serviceData = [
     { icon: assets.web_icon, title: 'Ecommerce Website', description: 'Immerse yourself in the world of Fashion and technology! Built with React,Redux, and Tailwind CSS and Auth0 for user authentication, here you can buy all typesof clothes as well as electronic accessories.', link: 'https://flavaro-ten.vercel.app/' },
     { icon: assets.web_icon, title: 'LMS Website', description: 'Immerse yourself in the world of skills! Built with React, React Query,Tailwind CSS and Clerk for user authentication, here you can enroll in many types ofcourses and also you can add as educator and add your courses.', link: 'https://lms-educational-app.vercel.app/' },
-    { icon: assets.web_icon, title: 'Ongoing', description: 'Creating a seamless user experience...', link: '' },
-    { icon: assets.web_icon, title: 'Ongoing', description: 'Creative design solutions to enhance visual communication...', link: '' },
 ]
+
 
 export const infoList = [
     { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'C,HTML, CSS, JavaScript, React Js, Next Js' },

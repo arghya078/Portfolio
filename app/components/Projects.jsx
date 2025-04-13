@@ -11,7 +11,7 @@ const Projects = () => {
 
         <p className='text-center max-w-2xl mx-auto mt-5 mb-2'>I am a passionate and motivated React Developer with a strong foundation in web development.</p>
 
-        <div className='grid grid-cols-4 gap-6 my-10'>
+        <div className='grid grid-cols-2 gap-6 my-10'>
            {serviceData.map(({icon, title, description,link}, index)=>(
             <div key={index} className='p-4 border-[0.5px] border-gray-300 rounded-xl cursor-pointer hover:bg-gray-100 hover:transform hover:scale-105 transition-all ease-in-out duration-300'>
                <Image src={icon} alt={title} className='w-10' />
