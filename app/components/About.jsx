@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import { assets, toolsData } from '@/assets/assets'
-import { infoList } from '@/assets/assets'
+
 import { motion } from "motion/react"
 import user_img from '@/public/user_img.png'
 
